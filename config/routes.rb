@@ -3,8 +3,12 @@ Rails.application.routes.draw do
   namespace :api do 
     namespace :v1 do 
       root "users#home"
-      
-      resources :users
+
+      resources :users do
+        resources :emojis, only: [:create, :destroy]
+      end
+
+      resources :emojis, only: [:index, :show]
 
       post :signup, to: "registrations#signup"
       get :login_check, to: "sessions#login_check"
