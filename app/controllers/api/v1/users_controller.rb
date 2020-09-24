@@ -1,7 +1,13 @@
 class Api::V1::UsersController < ApplicationController
 
+        def home
+                render json: {
+                        message: "Welcome"
+                }
+        end
+
         def index 
-                users = User.all.order('created_at DESC')
+                users = User.all
                 if users 
                         render json: {
                                 users: UserSerializer.new(users).serializable_hash
