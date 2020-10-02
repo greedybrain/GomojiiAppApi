@@ -13,7 +13,7 @@ class Api::V1::RegistrationsController < ApplicationController
                         render json: {
                                 email_error: user.errors.messages[:email],
                                 password_error: user.errors.messages[:password],
-                                password_confirmation_error: user.errors.messages[:password_confirmation],
+                                password_confirmation_error: "Passwords don't match",
                                 status: 400
                         }
                 end
