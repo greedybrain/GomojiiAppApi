@@ -1,8 +1,8 @@
 class Api::V1::EmojisController < ApplicationController
         
         def index 
-                emojis = Emoji.all.order('created_at DESC')
-                if !!emojis 
+                emojis = Emoji.all
+                if emojis 
                         render json: {
                                 emojis: EmojiSerializer.new(emojis).serializable_hash
                         }
