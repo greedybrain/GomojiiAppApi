@@ -25,10 +25,11 @@ class Api::V1::EmojisController < ApplicationController
         def create 
                 if params[:user_id]
                         user = User.find(params[:user_id])
-                        emoji = user.emojis.build(emoji_params)
-                        if emoji.save 
+                        emoji = Emoji.find(params[:emoji_id])
+                        favorite = user.user_favorites.build(emoji_params)
+                        if favorite.save 
                                 render json: {
-                                        emoji: EmojiSerializer.new(emoji).serializable_hash,
+                                        favorite: EmojiSerializer.new(emoji).serializable_hash,
                                         success: "Emoji saved successfully"
                                 }
                         else
@@ -56,7 +57,7 @@ class Api::V1::EmojisController < ApplicationController
         private
 
         def emoji_params
-                params.permit(:slug, :character)
+                params.permit(:user_id, :emoji_id)
         end
 
 end
