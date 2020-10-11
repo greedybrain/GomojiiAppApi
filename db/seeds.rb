@@ -8471,149 +8471,152 @@ emojiData = [
                  }
                ]
              },
+             #GOLFING STARTS HERE             
              {
                "slug": "person-golfing",
                "character": "🏌️",
                "unicodeName": "person golfing",
                "codePoint": "1F3CC FE0F",
                "group": "people-body",
-               "subGroup": "person-sport"
-             },
-             {
-               "slug": "person-golfing-light-skin-tone",
-               "character": "🏌🏻",
-               "unicodeName": "person golfing: light skin tone",
-               "codePoint": "1F3CC 1F3FB",
-               "group": "people-body",
-               "subGroup": "person-sport"
-             },
-             {
-               "slug": "person-golfing-medium-light-skin-tone",
-               "character": "🏌🏼",
-               "unicodeName": "person golfing: medium-light skin tone",
-               "codePoint": "1F3CC 1F3FC",
-               "group": "people-body",
-               "subGroup": "person-sport"
-             },
-             {
-               "slug": "person-golfing-medium-skin-tone",
-               "character": "🏌🏽",
-               "unicodeName": "person golfing: medium skin tone",
-               "codePoint": "1F3CC 1F3FD",
-               "group": "people-body",
-               "subGroup": "person-sport"
-             },
-             {
-               "slug": "person-golfing-medium-dark-skin-tone",
-               "character": "🏌🏾",
-               "unicodeName": "person golfing: medium-dark skin tone",
-               "codePoint": "1F3CC 1F3FE",
-               "group": "people-body",
-               "subGroup": "person-sport"
-             },
-             {
-               "slug": "person-golfing-dark-skin-tone",
-               "character": "🏌🏿",
-               "unicodeName": "person golfing: dark skin tone",
-               "codePoint": "1F3CC 1F3FF",
-               "group": "people-body",
-               "subGroup": "person-sport"
-             },
-             {
-               "slug": "man-golfing",
-               "character": "🏌️‍♂️",
-               "unicodeName": "man golfing",
-               "codePoint": "1F3CC FE0F 200D 2642 FE0F",
-               "group": "people-body",
-               "subGroup": "person-sport"
-             },
-             {
-               "slug": "man-golfing-light-skin-tone",
-               "character": "🏌🏻‍♂️",
-               "unicodeName": "man golfing: light skin tone",
-               "codePoint": "1F3CC 1F3FB 200D 2642 FE0F",
-               "group": "people-body",
-               "subGroup": "person-sport"
-             },
-             {
-               "slug": "man-golfing-medium-light-skin-tone",
-               "character": "🏌🏼‍♂️",
-               "unicodeName": "man golfing: medium-light skin tone",
-               "codePoint": "1F3CC 1F3FC 200D 2642 FE0F",
-               "group": "people-body",
-               "subGroup": "person-sport"
-             },
-             {
-               "slug": "man-golfing-medium-skin-tone",
-               "character": "🏌🏽‍♂️",
-               "unicodeName": "man golfing: medium skin tone",
-               "codePoint": "1F3CC 1F3FD 200D 2642 FE0F",
-               "group": "people-body",
-               "subGroup": "person-sport"
-             },
-             {
-               "slug": "man-golfing-medium-dark-skin-tone",
-               "character": "🏌🏾‍♂️",
-               "unicodeName": "man golfing: medium-dark skin tone",
-               "codePoint": "1F3CC 1F3FE 200D 2642 FE0F",
-               "group": "people-body",
-               "subGroup": "person-sport"
-             },
-             {
-               "slug": "man-golfing-dark-skin-tone",
-               "character": "🏌🏿‍♂️",
-               "unicodeName": "man golfing: dark skin tone",
-               "codePoint": "1F3CC 1F3FF 200D 2642 FE0F",
-               "group": "people-body",
-               "subGroup": "person-sport"
-             },
-             {
-               "slug": "woman-golfing",
-               "character": "🏌️‍♀️",
-               "unicodeName": "woman golfing",
-               "codePoint": "1F3CC FE0F 200D 2640 FE0F",
-               "group": "people-body",
-               "subGroup": "person-sport"
-             },
-             {
-               "slug": "woman-golfing-light-skin-tone",
-               "character": "🏌🏻‍♀️",
-               "unicodeName": "woman golfing: light skin tone",
-               "codePoint": "1F3CC 1F3FB 200D 2640 FE0F",
-               "group": "people-body",
-               "subGroup": "person-sport"
-             },
-             {
-               "slug": "woman-golfing-medium-light-skin-tone",
-               "character": "🏌🏼‍♀️",
-               "unicodeName": "woman golfing: medium-light skin tone",
-               "codePoint": "1F3CC 1F3FC 200D 2640 FE0F",
-               "group": "people-body",
-               "subGroup": "person-sport"
-             },
-             {
-               "slug": "woman-golfing-medium-skin-tone",
-               "character": "🏌🏽‍♀️",
-               "unicodeName": "woman golfing: medium skin tone",
-               "codePoint": "1F3CC 1F3FD 200D 2640 FE0F",
-               "group": "people-body",
-               "subGroup": "person-sport"
-             },
-             {
-               "slug": "woman-golfing-medium-dark-skin-tone",
-               "character": "🏌🏾‍♀️",
-               "unicodeName": "woman golfing: medium-dark skin tone",
-               "codePoint": "1F3CC 1F3FE 200D 2640 FE0F",
-               "group": "people-body",
-               "subGroup": "person-sport"
-             },
-             {
-               "slug": "woman-golfing-dark-skin-tone",
-               "character": "🏌🏿‍♀️",
-               "unicodeName": "woman golfing: dark skin tone",
-               "codePoint": "1F3CC 1F3FF 200D 2640 FE0F",
-               "group": "people-body",
-               "subGroup": "person-sport"
+               "subGroup": "person-sport",
+              "variants": [
+                {
+                  "slug": "person-golfing-light-skin-tone",
+                  "character": "🏌🏻",
+                  "unicodeName": "person golfing: light skin tone",
+                  "codePoint": "1F3CC 1F3FB",
+                  "group": "people-body",
+                  "subGroup": "person-sport"
+                },
+                {
+                  "slug": "person-golfing-medium-light-skin-tone",
+                  "character": "🏌🏼",
+                  "unicodeName": "person golfing: medium-light skin tone",
+                  "codePoint": "1F3CC 1F3FC",
+                  "group": "people-body",
+                  "subGroup": "person-sport"
+                },
+                {
+                  "slug": "person-golfing-medium-skin-tone",
+                  "character": "🏌🏽",
+                  "unicodeName": "person golfing: medium skin tone",
+                  "codePoint": "1F3CC 1F3FD",
+                  "group": "people-body",
+                  "subGroup": "person-sport"
+                },
+                {
+                  "slug": "person-golfing-medium-dark-skin-tone",
+                  "character": "🏌🏾",
+                  "unicodeName": "person golfing: medium-dark skin tone",
+                  "codePoint": "1F3CC 1F3FE",
+                  "group": "people-body",
+                  "subGroup": "person-sport"
+                },
+                {
+                  "slug": "person-golfing-dark-skin-tone",
+                  "character": "🏌🏿",
+                  "unicodeName": "person golfing: dark skin tone",
+                  "codePoint": "1F3CC 1F3FF",
+                  "group": "people-body",
+                  "subGroup": "person-sport"
+                },
+                {
+                  "slug": "man-golfing",
+                  "character": "🏌️‍♂️",
+                  "unicodeName": "man golfing",
+                  "codePoint": "1F3CC FE0F 200D 2642 FE0F",
+                  "group": "people-body",
+                  "subGroup": "person-sport"
+                },
+                {
+                  "slug": "man-golfing-light-skin-tone",
+                  "character": "🏌🏻‍♂️",
+                  "unicodeName": "man golfing: light skin tone",
+                  "codePoint": "1F3CC 1F3FB 200D 2642 FE0F",
+                  "group": "people-body",
+                  "subGroup": "person-sport"
+                },
+                {
+                  "slug": "man-golfing-medium-light-skin-tone",
+                  "character": "🏌🏼‍♂️",
+                  "unicodeName": "man golfing: medium-light skin tone",
+                  "codePoint": "1F3CC 1F3FC 200D 2642 FE0F",
+                  "group": "people-body",
+                  "subGroup": "person-sport"
+                },
+                {
+                  "slug": "man-golfing-medium-skin-tone",
+                  "character": "🏌🏽‍♂️",
+                  "unicodeName": "man golfing: medium skin tone",
+                  "codePoint": "1F3CC 1F3FD 200D 2642 FE0F",
+                  "group": "people-body",
+                  "subGroup": "person-sport"
+                },
+                {
+                  "slug": "man-golfing-medium-dark-skin-tone",
+                  "character": "🏌🏾‍♂️",
+                  "unicodeName": "man golfing: medium-dark skin tone",
+                  "codePoint": "1F3CC 1F3FE 200D 2642 FE0F",
+                  "group": "people-body",
+                  "subGroup": "person-sport"
+                },
+                {
+                  "slug": "man-golfing-dark-skin-tone",
+                  "character": "🏌🏿‍♂️",
+                  "unicodeName": "man golfing: dark skin tone",
+                  "codePoint": "1F3CC 1F3FF 200D 2642 FE0F",
+                  "group": "people-body",
+                  "subGroup": "person-sport"
+                },
+                {
+                  "slug": "woman-golfing",
+                  "character": "🏌️‍♀️",
+                  "unicodeName": "woman golfing",
+                  "codePoint": "1F3CC FE0F 200D 2640 FE0F",
+                  "group": "people-body",
+                  "subGroup": "person-sport"
+                },
+                {
+                  "slug": "woman-golfing-light-skin-tone",
+                  "character": "🏌🏻‍♀️",
+                  "unicodeName": "woman golfing: light skin tone",
+                  "codePoint": "1F3CC 1F3FB 200D 2640 FE0F",
+                  "group": "people-body",
+                  "subGroup": "person-sport"
+                },
+                {
+                  "slug": "woman-golfing-medium-light-skin-tone",
+                  "character": "🏌🏼‍♀️",
+                  "unicodeName": "woman golfing: medium-light skin tone",
+                  "codePoint": "1F3CC 1F3FC 200D 2640 FE0F",
+                  "group": "people-body",
+                  "subGroup": "person-sport"
+                },
+                {
+                  "slug": "woman-golfing-medium-skin-tone",
+                  "character": "🏌🏽‍♀️",
+                  "unicodeName": "woman golfing: medium skin tone",
+                  "codePoint": "1F3CC 1F3FD 200D 2640 FE0F",
+                  "group": "people-body",
+                  "subGroup": "person-sport"
+                },
+                {
+                  "slug": "woman-golfing-medium-dark-skin-tone",
+                  "character": "🏌🏾‍♀️",
+                  "unicodeName": "woman golfing: medium-dark skin tone",
+                  "codePoint": "1F3CC 1F3FE 200D 2640 FE0F",
+                  "group": "people-body",
+                  "subGroup": "person-sport"
+                },
+                {
+                  "slug": "woman-golfing-dark-skin-tone",
+                  "character": "🏌🏿‍♀️",
+                  "unicodeName": "woman golfing: dark skin tone",
+                  "codePoint": "1F3CC 1F3FF 200D 2640 FE0F",
+                  "group": "people-body",
+                  "subGroup": "person-sport"
+                },
+              ]
              },
              {
                "slug": "person-surfing",
@@ -8855,47 +8858,50 @@ emojiData = [
                "unicodeName": "person bouncing ball",
                "codePoint": "26F9 FE0F",
                "group": "people-body",
-               "subGroup": "person-sport"
-             },
-             {
-               "slug": "person-bouncing-ball-light-skin-tone",
-               "character": "⛹🏻",
-               "unicodeName": "person bouncing ball: light skin tone",
-               "codePoint": "26F9 1F3FB",
-               "group": "people-body",
-               "subGroup": "person-sport"
-             },
-             {
-               "slug": "person-bouncing-ball-medium-light-skin-tone",
-               "character": "⛹🏼",
-               "unicodeName": "person bouncing ball: medium-light skin tone",
-               "codePoint": "26F9 1F3FC",
-               "group": "people-body",
-               "subGroup": "person-sport"
-             },
-             {
-               "slug": "person-bouncing-ball-medium-skin-tone",
-               "character": "⛹🏽",
-               "unicodeName": "person bouncing ball: medium skin tone",
-               "codePoint": "26F9 1F3FD",
-               "group": "people-body",
-               "subGroup": "person-sport"
-             },
-             {
-               "slug": "person-bouncing-ball-medium-dark-skin-tone",
-               "character": "⛹🏾",
-               "unicodeName": "person bouncing ball: medium-dark skin tone",
-               "codePoint": "26F9 1F3FE",
-               "group": "people-body",
-               "subGroup": "person-sport"
-             },
-             {
-               "slug": "person-bouncing-ball-dark-skin-tone",
-               "character": "⛹🏿",
-               "unicodeName": "person bouncing ball: dark skin tone",
-               "codePoint": "26F9 1F3FF",
-               "group": "people-body",
-               "subGroup": "person-sport"
+               "subGroup": "person-sport",
+               "variants": [
+                 {
+                   "slug": "person-bouncing-ball-light-skin-tone",
+                   "character": "⛹🏻",
+                   "unicodeName": "person bouncing ball: light skin tone",
+                   "codePoint": "26F9 1F3FB",
+                   "group": "people-body",
+                   "subGroup": "person-sport"
+                 },
+                 {
+                   "slug": "person-bouncing-ball-medium-light-skin-tone",
+                   "character": "⛹🏼",
+                   "unicodeName": "person bouncing ball: medium-light skin tone",
+                   "codePoint": "26F9 1F3FC",
+                   "group": "people-body",
+                   "subGroup": "person-sport"
+                 },
+                 {
+                   "slug": "person-bouncing-ball-medium-skin-tone",
+                   "character": "⛹🏽",
+                   "unicodeName": "person bouncing ball: medium skin tone",
+                   "codePoint": "26F9 1F3FD",
+                   "group": "people-body",
+                   "subGroup": "person-sport"
+                 },
+                 {
+                   "slug": "person-bouncing-ball-medium-dark-skin-tone",
+                   "character": "⛹🏾",
+                   "unicodeName": "person bouncing ball: medium-dark skin tone",
+                   "codePoint": "26F9 1F3FE",
+                   "group": "people-body",
+                   "subGroup": "person-sport"
+                 },
+                 {
+                   "slug": "person-bouncing-ball-dark-skin-tone",
+                   "character": "⛹🏿",
+                   "unicodeName": "person bouncing ball: dark skin tone",
+                   "codePoint": "26F9 1F3FF",
+                   "group": "people-body",
+                   "subGroup": "person-sport"
+                 },
+
+               ]
              },
              {
                "slug": "man-bouncing-ball",
@@ -8903,47 +8909,50 @@ emojiData = [
                "unicodeName": "man bouncing ball",
                "codePoint": "26F9 FE0F 200D 2642 FE0F",
                "group": "people-body",
-               "subGroup": "person-sport"
-             },
-             {
-               "slug": "man-bouncing-ball-light-skin-tone",
-               "character": "⛹🏻‍♂️",
-               "unicodeName": "man bouncing ball: light skin tone",
-               "codePoint": "26F9 1F3FB 200D 2642 FE0F",
-               "group": "people-body",
-               "subGroup": "person-sport"
-             },
-             {
-               "slug": "man-bouncing-ball-medium-light-skin-tone",
-               "character": "⛹🏼‍♂️",
-               "unicodeName": "man bouncing ball: medium-light skin tone",
-               "codePoint": "26F9 1F3FC 200D 2642 FE0F",
-               "group": "people-body",
-               "subGroup": "person-sport"
-             },
-             {
-               "slug": "man-bouncing-ball-medium-skin-tone",
-               "character": "⛹🏽‍♂️",
-               "unicodeName": "man bouncing ball: medium skin tone",
-               "codePoint": "26F9 1F3FD 200D 2642 FE0F",
-               "group": "people-body",
-               "subGroup": "person-sport"
-             },
-             {
-               "slug": "man-bouncing-ball-medium-dark-skin-tone",
-               "character": "⛹🏾‍♂️",
-               "unicodeName": "man bouncing ball: medium-dark skin tone",
-               "codePoint": "26F9 1F3FE 200D 2642 FE0F",
-               "group": "people-body",
-               "subGroup": "person-sport"
-             },
-             {
-               "slug": "man-bouncing-ball-dark-skin-tone",
-               "character": "⛹🏿‍♂️",
-               "unicodeName": "man bouncing ball: dark skin tone",
-               "codePoint": "26F9 1F3FF 200D 2642 FE0F",
-               "group": "people-body",
-               "subGroup": "person-sport"
+               "subGroup": "person-sport",
+               "variants": [
+                 {
+                   "slug": "man-bouncing-ball-light-skin-tone",
+                   "character": "⛹🏻‍♂️",
+                   "unicodeName": "man bouncing ball: light skin tone",
+                   "codePoint": "26F9 1F3FB 200D 2642 FE0F",
+                   "group": "people-body",
+                   "subGroup": "person-sport"
+                 },
+                 {
+                   "slug": "man-bouncing-ball-medium-light-skin-tone",
+                   "character": "⛹🏼‍♂️",
+                   "unicodeName": "man bouncing ball: medium-light skin tone",
+                   "codePoint": "26F9 1F3FC 200D 2642 FE0F",
+                   "group": "people-body",
+                   "subGroup": "person-sport"
+                 },
+                 {
+                   "slug": "man-bouncing-ball-medium-skin-tone",
+                   "character": "⛹🏽‍♂️",
+                   "unicodeName": "man bouncing ball: medium skin tone",
+                   "codePoint": "26F9 1F3FD 200D 2642 FE0F",
+                   "group": "people-body",
+                   "subGroup": "person-sport"
+                 },
+                 {
+                   "slug": "man-bouncing-ball-medium-dark-skin-tone",
+                   "character": "⛹🏾‍♂️",
+                   "unicodeName": "man bouncing ball: medium-dark skin tone",
+                   "codePoint": "26F9 1F3FE 200D 2642 FE0F",
+                   "group": "people-body",
+                   "subGroup": "person-sport"
+                 },
+                 {
+                   "slug": "man-bouncing-ball-dark-skin-tone",
+                   "character": "⛹🏿‍♂️",
+                   "unicodeName": "man bouncing ball: dark skin tone",
+                   "codePoint": "26F9 1F3FF 200D 2642 FE0F",
+                   "group": "people-body",
+                   "subGroup": "person-sport"
+                 },
+
+               ]
              },
              {
                "slug": "woman-bouncing-ball",
@@ -8951,47 +8960,50 @@ emojiData = [
                "unicodeName": "woman bouncing ball",
                "codePoint": "26F9 FE0F 200D 2640 FE0F",
                "group": "people-body",
-               "subGroup": "person-sport"
-             },
-             {
-               "slug": "woman-bouncing-ball-light-skin-tone",
-               "character": "⛹🏻‍♀️",
-               "unicodeName": "woman bouncing ball: light skin tone",
-               "codePoint": "26F9 1F3FB 200D 2640 FE0F",
-               "group": "people-body",
-               "subGroup": "person-sport"
-             },
-             {
-               "slug": "woman-bouncing-ball-medium-light-skin-tone",
-               "character": "⛹🏼‍♀️",
-               "unicodeName": "woman bouncing ball: medium-light skin tone",
-               "codePoint": "26F9 1F3FC 200D 2640 FE0F",
-               "group": "people-body",
-               "subGroup": "person-sport"
-             },
-             {
-               "slug": "woman-bouncing-ball-medium-skin-tone",
-               "character": "⛹🏽‍♀️",
-               "unicodeName": "woman bouncing ball: medium skin tone",
-               "codePoint": "26F9 1F3FD 200D 2640 FE0F",
-               "group": "people-body",
-               "subGroup": "person-sport"
-             },
-             {
-               "slug": "woman-bouncing-ball-medium-dark-skin-tone",
-               "character": "⛹🏾‍♀️",
-               "unicodeName": "woman bouncing ball: medium-dark skin tone",
-               "codePoint": "26F9 1F3FE 200D 2640 FE0F",
-               "group": "people-body",
-               "subGroup": "person-sport"
-             },
-             {
-               "slug": "woman-bouncing-ball-dark-skin-tone",
-               "character": "⛹🏿‍♀️",
-               "unicodeName": "woman bouncing ball: dark skin tone",
-               "codePoint": "26F9 1F3FF 200D 2640 FE0F",
-               "group": "people-body",
-               "subGroup": "person-sport"
+               "subGroup": "person-sport",
+               "variants": [
+                 {
+                   "slug": "woman-bouncing-ball-light-skin-tone",
+                   "character": "⛹🏻‍♀️",
+                   "unicodeName": "woman bouncing ball: light skin tone",
+                   "codePoint": "26F9 1F3FB 200D 2640 FE0F",
+                   "group": "people-body",
+                   "subGroup": "person-sport"
+                 },
+                 {
+                   "slug": "woman-bouncing-ball-medium-light-skin-tone",
+                   "character": "⛹🏼‍♀️",
+                   "unicodeName": "woman bouncing ball: medium-light skin tone",
+                   "codePoint": "26F9 1F3FC 200D 2640 FE0F",
+                   "group": "people-body",
+                   "subGroup": "person-sport"
+                 },
+                 {
+                   "slug": "woman-bouncing-ball-medium-skin-tone",
+                   "character": "⛹🏽‍♀️",
+                   "unicodeName": "woman bouncing ball: medium skin tone",
+                   "codePoint": "26F9 1F3FD 200D 2640 FE0F",
+                   "group": "people-body",
+                   "subGroup": "person-sport"
+                 },
+                 {
+                   "slug": "woman-bouncing-ball-medium-dark-skin-tone",
+                   "character": "⛹🏾‍♀️",
+                   "unicodeName": "woman bouncing ball: medium-dark skin tone",
+                   "codePoint": "26F9 1F3FE 200D 2640 FE0F",
+                   "group": "people-body",
+                   "subGroup": "person-sport"
+                 },
+                 {
+                   "slug": "woman-bouncing-ball-dark-skin-tone",
+                   "character": "⛹🏿‍♀️",
+                   "unicodeName": "woman bouncing ball: dark skin tone",
+                   "codePoint": "26F9 1F3FF 200D 2640 FE0F",
+                   "group": "people-body",
+                   "subGroup": "person-sport"
+                 },
+
+               ]
              },
              {
                "slug": "person-lifting-weights",
@@ -8999,47 +9011,50 @@ emojiData = [
                "unicodeName": "person lifting weights",
                "codePoint": "1F3CB FE0F",
                "group": "people-body",
-               "subGroup": "person-sport"
-             },
-             {
-               "slug": "person-lifting-weights-light-skin-tone",
-               "character": "🏋🏻",
-               "unicodeName": "person lifting weights: light skin tone",
-               "codePoint": "1F3CB 1F3FB",
-               "group": "people-body",
-               "subGroup": "person-sport"
-             },
-             {
-               "slug": "person-lifting-weights-medium-light-skin-tone",
-               "character": "🏋🏼",
-               "unicodeName": "person lifting weights: medium-light skin tone",
-               "codePoint": "1F3CB 1F3FC",
-               "group": "people-body",
-               "subGroup": "person-sport"
-             },
-             {
-               "slug": "person-lifting-weights-medium-skin-tone",
-               "character": "🏋🏽",
-               "unicodeName": "person lifting weights: medium skin tone",
-               "codePoint": "1F3CB 1F3FD",
-               "group": "people-body",
-               "subGroup": "person-sport"
-             },
-             {
-               "slug": "person-lifting-weights-medium-dark-skin-tone",
-               "character": "🏋🏾",
-               "unicodeName": "person lifting weights: medium-dark skin tone",
-               "codePoint": "1F3CB 1F3FE",
-               "group": "people-body",
-               "subGroup": "person-sport"
-             },
-             {
-               "slug": "person-lifting-weights-dark-skin-tone",
-               "character": "🏋🏿",
-               "unicodeName": "person lifting weights: dark skin tone",
-               "codePoint": "1F3CB 1F3FF",
-               "group": "people-body",
-               "subGroup": "person-sport"
+               "subGroup": "person-sport",
+               "variants": [
+                 {
+                   "slug": "person-lifting-weights-light-skin-tone",
+                   "character": "🏋🏻",
+                   "unicodeName": "person lifting weights: light skin tone",
+                   "codePoint": "1F3CB 1F3FB",
+                   "group": "people-body",
+                   "subGroup": "person-sport"
+                 },
+                 {
+                   "slug": "person-lifting-weights-medium-light-skin-tone",
+                   "character": "🏋🏼",
+                   "unicodeName": "person lifting weights: medium-light skin tone",
+                   "codePoint": "1F3CB 1F3FC",
+                   "group": "people-body",
+                   "subGroup": "person-sport"
+                 },
+                 {
+                   "slug": "person-lifting-weights-medium-skin-tone",
+                   "character": "🏋🏽",
+                   "unicodeName": "person lifting weights: medium skin tone",
+                   "codePoint": "1F3CB 1F3FD",
+                   "group": "people-body",
+                   "subGroup": "person-sport"
+                 },
+                 {
+                   "slug": "person-lifting-weights-medium-dark-skin-tone",
+                   "character": "🏋🏾",
+                   "unicodeName": "person lifting weights: medium-dark skin tone",
+                   "codePoint": "1F3CB 1F3FE",
+                   "group": "people-body",
+                   "subGroup": "person-sport"
+                 },
+                 {
+                   "slug": "person-lifting-weights-dark-skin-tone",
+                   "character": "🏋🏿",
+                   "unicodeName": "person lifting weights: dark skin tone",
+                   "codePoint": "1F3CB 1F3FF",
+                   "group": "people-body",
+                   "subGroup": "person-sport"
+                 },
+
+               ]
              },
              {
                "slug": "man-lifting-weights",
@@ -9047,47 +9062,50 @@ emojiData = [
                "unicodeName": "man lifting weights",
                "codePoint": "1F3CB FE0F 200D 2642 FE0F",
                "group": "people-body",
-               "subGroup": "person-sport"
-             },
-             {
-               "slug": "man-lifting-weights-light-skin-tone",
-               "character": "🏋🏻‍♂️",
-               "unicodeName": "man lifting weights: light skin tone",
-               "codePoint": "1F3CB 1F3FB 200D 2642 FE0F",
-               "group": "people-body",
-               "subGroup": "person-sport"
-             },
-             {
-               "slug": "man-lifting-weights-medium-light-skin-tone",
-               "character": "🏋🏼‍♂️",
-               "unicodeName": "man lifting weights: medium-light skin tone",
-               "codePoint": "1F3CB 1F3FC 200D 2642 FE0F",
-               "group": "people-body",
-               "subGroup": "person-sport"
-             },
-             {
-               "slug": "man-lifting-weights-medium-skin-tone",
-               "character": "🏋🏽‍♂️",
-               "unicodeName": "man lifting weights: medium skin tone",
-               "codePoint": "1F3CB 1F3FD 200D 2642 FE0F",
-               "group": "people-body",
-               "subGroup": "person-sport"
-             },
-             {
-               "slug": "man-lifting-weights-medium-dark-skin-tone",
-               "character": "🏋🏾‍♂️",
-               "unicodeName": "man lifting weights: medium-dark skin tone",
-               "codePoint": "1F3CB 1F3FE 200D 2642 FE0F",
-               "group": "people-body",
-               "subGroup": "person-sport"
-             },
-             {
-               "slug": "man-lifting-weights-dark-skin-tone",
-               "character": "🏋🏿‍♂️",
-               "unicodeName": "man lifting weights: dark skin tone",
-               "codePoint": "1F3CB 1F3FF 200D 2642 FE0F",
-               "group": "people-body",
-               "subGroup": "person-sport"
+               "subGroup": "person-sport",
+               "variants": [
+                 {
+                   "slug": "man-lifting-weights-light-skin-tone",
+                   "character": "🏋🏻‍♂️",
+                   "unicodeName": "man lifting weights: light skin tone",
+                   "codePoint": "1F3CB 1F3FB 200D 2642 FE0F",
+                   "group": "people-body",
+                   "subGroup": "person-sport"
+                 },
+                 {
+                   "slug": "man-lifting-weights-medium-light-skin-tone",
+                   "character": "🏋🏼‍♂️",
+                   "unicodeName": "man lifting weights: medium-light skin tone",
+                   "codePoint": "1F3CB 1F3FC 200D 2642 FE0F",
+                   "group": "people-body",
+                   "subGroup": "person-sport"
+                 },
+                 {
+                   "slug": "man-lifting-weights-medium-skin-tone",
+                   "character": "🏋🏽‍♂️",
+                   "unicodeName": "man lifting weights: medium skin tone",
+                   "codePoint": "1F3CB 1F3FD 200D 2642 FE0F",
+                   "group": "people-body",
+                   "subGroup": "person-sport"
+                 },
+                 {
+                   "slug": "man-lifting-weights-medium-dark-skin-tone",
+                   "character": "🏋🏾‍♂️",
+                   "unicodeName": "man lifting weights: medium-dark skin tone",
+                   "codePoint": "1F3CB 1F3FE 200D 2642 FE0F",
+                   "group": "people-body",
+                   "subGroup": "person-sport"
+                 },
+                 {
+                   "slug": "man-lifting-weights-dark-skin-tone",
+                   "character": "🏋🏿‍♂️",
+                   "unicodeName": "man lifting weights: dark skin tone",
+                   "codePoint": "1F3CB 1F3FF 200D 2642 FE0F",
+                   "group": "people-body",
+                   "subGroup": "person-sport"
+                 },
+
+               ]
              },
              {
                "slug": "woman-lifting-weights",
@@ -9095,47 +9113,50 @@ emojiData = [
                "unicodeName": "woman lifting weights",
                "codePoint": "1F3CB FE0F 200D 2640 FE0F",
                "group": "people-body",
-               "subGroup": "person-sport"
-             },
-             {
-               "slug": "woman-lifting-weights-light-skin-tone",
-               "character": "🏋🏻‍♀️",
-               "unicodeName": "woman lifting weights: light skin tone",
-               "codePoint": "1F3CB 1F3FB 200D 2640 FE0F",
-               "group": "people-body",
-               "subGroup": "person-sport"
-             },
-             {
-               "slug": "woman-lifting-weights-medium-light-skin-tone",
-               "character": "🏋🏼‍♀️",
-               "unicodeName": "woman lifting weights: medium-light skin tone",
-               "codePoint": "1F3CB 1F3FC 200D 2640 FE0F",
-               "group": "people-body",
-               "subGroup": "person-sport"
-             },
-             {
-               "slug": "woman-lifting-weights-medium-skin-tone",
-               "character": "🏋🏽‍♀️",
-               "unicodeName": "woman lifting weights: medium skin tone",
-               "codePoint": "1F3CB 1F3FD 200D 2640 FE0F",
-               "group": "people-body",
-               "subGroup": "person-sport"
-             },
-             {
-               "slug": "woman-lifting-weights-medium-dark-skin-tone",
-               "character": "🏋🏾‍♀️",
-               "unicodeName": "woman lifting weights: medium-dark skin tone",
-               "codePoint": "1F3CB 1F3FE 200D 2640 FE0F",
-               "group": "people-body",
-               "subGroup": "person-sport"
-             },
-             {
-               "slug": "woman-lifting-weights-dark-skin-tone",
-               "character": "🏋🏿‍♀️",
-               "unicodeName": "woman lifting weights: dark skin tone",
-               "codePoint": "1F3CB 1F3FF 200D 2640 FE0F",
-               "group": "people-body",
-               "subGroup": "person-sport"
+               "subGroup": "person-sport",
+               "variants": [
+                 {
+                   "slug": "woman-lifting-weights-light-skin-tone",
+                   "character": "🏋🏻‍♀️",
+                   "unicodeName": "woman lifting weights: light skin tone",
+                   "codePoint": "1F3CB 1F3FB 200D 2640 FE0F",
+                   "group": "people-body",
+                   "subGroup": "person-sport"
+                 },
+                 {
+                   "slug": "woman-lifting-weights-medium-light-skin-tone",
+                   "character": "🏋🏼‍♀️",
+                   "unicodeName": "woman lifting weights: medium-light skin tone",
+                   "codePoint": "1F3CB 1F3FC 200D 2640 FE0F",
+                   "group": "people-body",
+                   "subGroup": "person-sport"
+                 },
+                 {
+                   "slug": "woman-lifting-weights-medium-skin-tone",
+                   "character": "🏋🏽‍♀️",
+                   "unicodeName": "woman lifting weights: medium skin tone",
+                   "codePoint": "1F3CB 1F3FD 200D 2640 FE0F",
+                   "group": "people-body",
+                   "subGroup": "person-sport"
+                 },
+                 {
+                   "slug": "woman-lifting-weights-medium-dark-skin-tone",
+                   "character": "🏋🏾‍♀️",
+                   "unicodeName": "woman lifting weights: medium-dark skin tone",
+                   "codePoint": "1F3CB 1F3FE 200D 2640 FE0F",
+                   "group": "people-body",
+                   "subGroup": "person-sport"
+                 },
+                 {
+                   "slug": "woman-lifting-weights-dark-skin-tone",
+                   "character": "🏋🏿‍♀️",
+                   "unicodeName": "woman lifting weights: dark skin tone",
+                   "codePoint": "1F3CB 1F3FF 200D 2640 FE0F",
+                   "group": "people-body",
+                   "subGroup": "person-sport"
+                 },
+
+               ]
              },
              {
                "slug": "person-biking",
