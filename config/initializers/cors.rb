@@ -6,7 +6,7 @@
 # Read more: https://github.com/cyu/rack-cors
 Rails.application.config.middleware.insert_before 0, Rack::Cors do
   allow do
-    origins 'https://gomojii.com/'
+    origins 'http://gomojii.com/'
     
     resource '*',
     headers: :any,
